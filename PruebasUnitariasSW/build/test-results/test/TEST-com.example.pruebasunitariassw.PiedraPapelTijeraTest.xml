@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.pruebasunitariassw.PiedraPapelTijeraTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-11-19T02:00:57" hostname="LAPTOP-JK1FRBPQ" time="0.048">
+  <properties/>
+  <testcase name="testEmpates()" classname="com.example.pruebasunitariassw.PiedraPapelTijeraTest" time="0.037"/>
+  <testcase name="testJugador1Gana()" classname="com.example.pruebasunitariassw.PiedraPapelTijeraTest" time="0.001"/>
+  <testcase name="testJugador2Gana()" classname="com.example.pruebasunitariassw.PiedraPapelTijeraTest" time="0.001"/>
+  <testcase name="testAmbosJugadoresNull()" classname="com.example.pruebasunitariassw.PiedraPapelTijeraTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
